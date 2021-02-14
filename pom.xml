@@ -38,7 +38,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/weixinkeji/JWebi18n.git</connection>
 		<developerConnection>scm:git:https://github.com/weixinkeji/JWebi18n.git</developerConnection>
-		<url>https://github.com/qiyueW/JWebi18n</url>
+		<url>https://github.com/weixinkeji/JWebi18n</url>
 		<tag>v${project.version}</tag>
 	</scm>
 	<distributionManagement>
